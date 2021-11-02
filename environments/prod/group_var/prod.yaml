@@ -1,0 +1,11 @@
+public_ip: 
+http_port: 
+git_repo: 
+deploy_directory: 
+pg_host: 
+pg_username: 
+pg_database: 
+pg_password: 
+okta_org_url: 
+okta_client_id: 
+okta_client_secret: 
