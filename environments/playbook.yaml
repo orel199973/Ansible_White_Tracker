@@ -1,8 +1,7 @@
 ---
  - hosts: "{{ group }}"
    become : true
-   vars_files:
-     - "{{ var_file_path }}"
+   
    tasks:
 
    - name: Update nodejs package
