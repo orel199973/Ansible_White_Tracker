@@ -27,7 +27,7 @@ create your groups like this:
 * Run playbook : ansible-Playbook *Your Play book YAML file* --extra-vars "group=*your group name* var_file_path=*enviroment/<my group name>/group_vars/variable file name*"
   
 For example:
-ansible-playbook playbook.yml --extra-vars "group=staging var_file_path=/home/Inbalevi0707/environments/staging/group_vars/staging.yml"
+ansible-playbook playbook.yml --extra-vars "group=staging var_file_path=/home/orelbh/environments/staging/group_vars/staging.yml"
 
   
 * You can add few flags for debugging: </br>
