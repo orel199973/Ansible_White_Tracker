@@ -6,7 +6,7 @@ This repo you will find:
 * Weight Tracker app deployed with ansible, using roles, variables and different modules.
 * YAML to write ansible configurations.
 * A controller machine which deploy the app to different enviroments (staging and production) using a single playbook.
-
+ 
 
 # steps:
 * Install ansible on ubuntu 18.04 with the commands in this site: [Installation Guide](https://www.linuxtechi.com/how-to-install-ansible-on-ubuntu/) 
