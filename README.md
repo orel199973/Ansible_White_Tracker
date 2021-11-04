@@ -39,6 +39,8 @@ This command will start the playbook on the requested task name ansible-playbook
 
 # Node.js Weight Tracker
 
+![Demo](docs/build-weight-tracker-app-demo.gif)
+
 This sample application demonstrates the following technologies.
 
 * [hapi](https://hapi.dev) - a wonderful Node.js application framework
